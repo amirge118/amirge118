@@ -1,4 +1,4 @@
-![imge for readme](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techrevolve.com%2Fhow-game-development-can-bring-a-next-wave-of-change%2F&psig=AOvVaw2V7Dgi2tDsGztCKGXJ7FUI&ust=1621612001251000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDqg9LN2PACFQAAAAAdAAAAABAK)
+![](https://www.techrevolve.com/wp-content/uploads/2020/03/Game-Development.png)
 
 
 
