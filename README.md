@@ -5,7 +5,8 @@
 
 ## 👋Hello there !
 
-My name is Amir and I'm love to write some code, living in lsrael and between the yoga and the beach I'm tring to do develope cool thinks.
+My name is Amir and I'm love to write some code!:smile:
+living in lsrael and between yoga lesson and the reading books on the beach I'm tring to do develope cool thinks.
 
 
 ###  ABOUT ME:
@@ -15,6 +16,8 @@ I'm ### Developer|Programmer|Learner
 Computer Science student at The College of Academic Management.
 Love to learn new Technologies.
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 Technologies and Tools:
 
