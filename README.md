@@ -7,7 +7,7 @@
 
 My name is Amir and I'm love to write some code!:smile:
 
-Living in lsrael,between yoga lesson and the reading books on the beach I'm tring to develope some cool thinks.
+Living in lsrael, between yoga lesson and reading books on the beach I'm trying to develop some cool things.
 
 
 
