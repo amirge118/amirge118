@@ -1,5 +1,5 @@
 
-<img src ="https://www.techrevolve.com/wp-content/uploads/2020/03/Game-Development.png" width ="1100" height="350">
+<img src ="https://www.techrevolve.com/wp-content/uploads/2020/03/Game-Development.png" width ="1100" height="250">
 
 
 
