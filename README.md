@@ -3,13 +3,13 @@
 
 # Hi there, I'm Amir Gefen 👋
 
-### Backend Engineer | Fintech Specialist | Performance & Health Enthusiast
+### Backend Engineer | Fintech Specialist  
 
-I am a Backend Engineer with a deep passion for building high-impact, scalable systems that solve real-world problems. My professional journey is driven by a relentless pursuit of technical excellence, whether I'm transitioning complex monoliths to microservices or optimizing cloud-native infrastructures. 
+I am a Backend Engineer with a deep passion for building high-impact, scalable systems that solve real-world problems. My professional journey is driven by a relentless pursuit of technical excellence.
 
 Beyond the code, I believe in a high-performance lifestyle. I apply the same discipline I use in my fitness and health routines—high-intensity training, nutrition, and recovery—to my engineering work. For me, technology is a tool to enhance life, and I’m constantly exploring how AI and automation can bridge the gap between complex data and human potential.
 
-- 🔭 **What I Do:** I architect and lead end-to-end technical designs for data-intensive applications. I enjoy the challenge of modernizing legacy systems and building secure, efficient integration layers for financial institutions.
+- 🔭 **What I Do:** I build the "engine room" of modern applications. My day-to-day involves thinking about how data flows, how systems scale, and how to make software that stays reliable long after the first deploy. I enjoy the puzzle of modernization—taking something old or slow and giving it a new, high-performance life.
 - 🧘 **My Values:** Discipline, continuous growth, and balance. I treat my career like a marathon—requiring endurance, strategic planning, and a focus on long-term sustainability.
 - 🧪 **AI & Life:** I build tools, like AI-driven refactoring engines, not just to write code faster, but to free up time for creative thinking and personal well-being.
 - ⚡ **Fun Fact:** When I'm not optimizing APIs, you'll probably find me training for my next half-marathon or on a basketball court.
@@ -38,10 +38,6 @@ Beyond the code, I believe in a high-performance lifestyle. I apply the same dis
 
 ---
 
-### 🏗 Featured Work: AI-Driven Refactoring Engine
-One of my favorite recent projects involved engineering an automated pipeline to modernize legacy codebases. By leveraging LLMs and cloud-based infrastructures, I focused on reducing technical debt and improving system maintainability at scale.
-
----
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-gefen)
